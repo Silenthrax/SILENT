@@ -5,7 +5,7 @@ from pyrogram import idle
 
 import config
 from SONALI import LOGGER, app, userbot
-from SONALI.core.call import RAUSHAN
+from SONALI.core.call import PyTgCalls
 from SONALI.misc import sudo
 from SONALI.plugins import ALL_MODULES
 from SONALI.utils.database import get_banned_users, get_gbanned
