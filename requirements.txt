@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
-#asyncio==3.4.3
+asyncio==3.4.3
 asyncio
 beautifulsoup4
 dnspython
@@ -19,7 +19,7 @@ py-tgcalls==0.9.7
 pykeyboard
 pymongo==4.6.3
 python-dotenv
-pyyaml==6.0.1
+pyyaml==6.0.2
 requests
 qrcode
 SafoneAPI==1.0.65
